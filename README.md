@@ -1,4 +1,4 @@
-# unsafe-shared-mem-no-seg-fault
+# unsafe-shared-mem
 
 ![](doc/assets/img/header1.png)
 
