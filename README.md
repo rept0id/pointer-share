@@ -1,8 +1,8 @@
-# unsafe-shared-mem
+# pointer-share
 
 ![](doc/assets/img/header1.png)
 
-UNSAFE share of memory
+An UNSAFE pointer shared between 2 programs. For educational purposes.
 
 ```
 sudo make build
